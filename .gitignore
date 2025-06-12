@@ -1,0 +1,4 @@
+# Ignore generated volumes and backups
+/docker/etc-pihole/
+/docker/etc-dnsmasq.d/
+/backups/*.tar.gz

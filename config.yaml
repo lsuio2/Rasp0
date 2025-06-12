@@ -1,0 +1,3 @@
+# Custom Pi-hole lists (optional)
+whitelist: []
+blocklist: []
